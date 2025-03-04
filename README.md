@@ -36,7 +36,7 @@ Navigate to a directory where you'd like to keep all your projects. If you haven
     ``` 
 2. Commit changes
     ```
-    git commit -m"<YOUR MESSAGE HERE>"
+    git commit -m "<YOUR MESSAGE HERE>"
     ```
 3. Push
     ```

@@ -11,6 +11,9 @@ function getArea( height, base){
 var height = 3;
 var base = 2;
 
+// Able to reassign
+b = 10;
+h = 6;
 
 // Call your function here!
 

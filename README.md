@@ -1,9 +1,9 @@
 # Welcome to the TPEO Spring 2024 Javascript Course!
 
 # Finding Homework/Class Resources
-Refer to the README.md within each week's folder to see the homework guidelines.
-
 To see our class recordings and slides, refer to our notion here: https://amber-toad-552.notion.site/Introductory-JavaScript-2025-19702dbde1e080d79c92f725d74c40e1 
+Refer to class slides for homework guidelines. 
+Comments on demo/practice/hw files will often detail the programming tasks. 
 
 # Fork Environment
 This repository will be using a fork structure, meaning that fellows will **commit to their own local respository** while **pulling new weekly content from this one**. Weekly content will be updated on the master branch, but a copy of all previous week's content will be available via branches.
@@ -18,7 +18,7 @@ Navigate to a directory where you'd like to keep all your projects. If you haven
     ```
 3. We need to set the **forked** repo's upstream url, allowing you to pull changes from the **main**, perform
     ```
-    git remote add upstream https://github.com/tpeo/<REPO_NAME>.git
+    git remote add upstream https://github.com/meli-huang/tpeo-javascript-course-sp25.git
     ```
 4. Verify that the forked repo has the following remote properties by performing ```git remote -v```
     ```

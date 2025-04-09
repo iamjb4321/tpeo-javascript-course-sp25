@@ -34,6 +34,7 @@ function Vehicle(car){
 var vehicle1 = new Vehicle(car1);
 var vehicle2 = new Vehicle(car2);
 var vehicle3 = new Vehicle(car3);
+console.log(stringTest);
 console.log(vehicle1.car.mpg);
 console.log(vehicle2.car.mpg);
 console.log(vehicle3.car.mpg);
